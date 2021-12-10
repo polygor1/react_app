@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAEE,WAAY,CACZ,YACF","file":"main.1543ae92.chunk.css","sourcesContent":[".App {\n  /* text-align: center; */\n  width: 100vw;\n  height: 100vh;\n}\n"]}
