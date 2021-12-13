@@ -172,7 +172,7 @@ proseWrap: 'always'
 В `package.json` добавить следующию строку:
 
 ```json
-"homepage": "https://https://имя_пользователя.github.io/имя_репозитория"
+"homepage": "https://имя_пользователя.github.io/имя_репозитория"
 ```
 
 Сделать билд через терминал:
